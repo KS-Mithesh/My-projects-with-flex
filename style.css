@@ -1,0 +1,22 @@
+p{
+    color:rgb(0, 89, 255);
+    font-family:sans-serif ;
+}
+
+.header{
+    background-color: rebeccapurple;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
